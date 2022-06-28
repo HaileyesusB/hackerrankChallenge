@@ -1,0 +1,12 @@
+C:\Users\hp\source\repos\hackerrankChallenge\obj\Debug\net5.0\hackerrankChallenge.csproj.AssemblyReference.cache
+C:\Users\hp\source\repos\hackerrankChallenge\obj\Debug\net5.0\hackerrankChallenge.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\hp\source\repos\hackerrankChallenge\obj\Debug\net5.0\hackerrankChallenge.AssemblyInfoInputs.cache
+C:\Users\hp\source\repos\hackerrankChallenge\obj\Debug\net5.0\hackerrankChallenge.AssemblyInfo.cs
+C:\Users\hp\source\repos\hackerrankChallenge\obj\Debug\net5.0\hackerrankChallenge.csproj.CoreCompileInputs.cache
+C:\Users\hp\source\repos\hackerrankChallenge\bin\Debug\net5.0\hackerrankChallenge.deps.json
+C:\Users\hp\source\repos\hackerrankChallenge\bin\Debug\net5.0\hackerrankChallenge.dll
+C:\Users\hp\source\repos\hackerrankChallenge\bin\Debug\net5.0\ref\hackerrankChallenge.dll
+C:\Users\hp\source\repos\hackerrankChallenge\bin\Debug\net5.0\hackerrankChallenge.pdb
+C:\Users\hp\source\repos\hackerrankChallenge\obj\Debug\net5.0\hackerrankChallenge.dll
+C:\Users\hp\source\repos\hackerrankChallenge\obj\Debug\net5.0\ref\hackerrankChallenge.dll
+C:\Users\hp\source\repos\hackerrankChallenge\obj\Debug\net5.0\hackerrankChallenge.pdb
